@@ -2,7 +2,7 @@
   description = "Cross-compilation devshell targeting Windows (x86_64-w64-mingw32, UCRT) for FreeRDP";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
 
   outputs =
